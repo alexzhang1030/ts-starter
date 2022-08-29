@@ -1,21 +1,21 @@
 lockfileVersion: 5.4
 
 specifiers:
-  '@alexzzz/eslint-config': ^1.4.0
-  '@commitlint/cli': ^17.1.2
-  '@commitlint/config-conventional': ^17.1.0
-  '@types/node': ^18.7.13
-  bumpp: ^8.2.1
-  eslint: ^8.23.0
-  lint-staged: ^13.0.3
-  pnpm: ^7.9.5
-  simple-git-hooks: ^2.8.0
-  taze: ^0.8.0
-  tsup: ^6.2.3
-  tsx: ^3.9.0
-  typescript: ^4.8.2
+  '@alexzzz/eslint-config': 1.4.0
+  '@commitlint/cli': 17.1.2
+  '@commitlint/config-conventional': 17.1.0
+  '@types/node': 18.7.13
+  bumpp: 8.2.1
+  eslint: 8.23.0
+  lint-staged: 13.0.3
+  pnpm: 7.9.5
+  simple-git-hooks: 2.8.0
+  taze: 0.8.0
+  tsup: 6.2.3
+  tsx: 3.9.0
+  typescript: 4.8.2
   unplugin-auto-import: 0.11.2
-  vitest: ^0.17.1
+  vitest: 0.17.1
 
 devDependencies:
   '@alexzzz/eslint-config': 1.4.0_yqf6kl63nyoq5megxukfnom5rm
@@ -1204,7 +1204,7 @@ packages:
     dev: true
 
   /concat-map/0.0.1:
-    resolution: {integrity: sha1-2Klr13/Wjfd5OnMDajug1UBdR3s=}
+    resolution: {integrity: sha512-/Srv4dswyQNBfohGpz9o6Yb3Gz3SrUDqBH5rTuhGR7ahtlbYKnVxw2bCFMRljaA7EXHaXZ8wsHdodFvbkhKmqg==}
     dev: true
 
   /console-control-strings/1.1.0:
@@ -3161,11 +3161,6 @@ packages:
     engines: {node: ^12.20.0 || ^14.13.1 || >=16.0.0}
     dev: true
 
-  /local-pkg/0.4.1:
-    resolution: {integrity: sha512-lL87ytIGP2FU5PWwNDo0w3WhIo2gopIAxPg9RxDYF7m4rr5ahuZxP22xnJHIvaLTe4Z9P6uKKY2UHiwyB4pcrw==}
-    engines: {node: '>=14'}
-    dev: true
-
   /local-pkg/0.4.2:
     resolution: {integrity: sha512-mlERgSPrbxU3BP4qBqAvvwlgW4MTg78iwJdGGnv7kibKjWcJksrG3t6LB5lXI93wXRDvG4NpUgJFmTG4T6rdrg==}
     engines: {node: '>=14'}
@@ -5004,7 +4999,7 @@ packages:
       '@types/node': 18.7.13
       chai: 4.3.6
       debug: 4.3.4
-      local-pkg: 0.4.1
+      local-pkg: 0.4.2
       tinypool: 0.2.1
       tinyspy: 0.3.3
       vite: 2.9.13
