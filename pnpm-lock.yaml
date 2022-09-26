@@ -10,7 +10,7 @@ specifiers:
   lint-staged: 13.0.3
   pnpm: 7.12.2
   simple-git-hooks: 2.8.0
-  taze: 0.8.1
+  taze: 0.8.2
   tsup: 6.2.3
   tsx: 3.9.0
   typescript: 4.8.3
@@ -27,7 +27,7 @@ devDependencies:
   lint-staged: 13.0.3
   pnpm: 7.12.2
   simple-git-hooks: 2.8.0
-  taze: 0.8.1
+  taze: 0.8.2
   tsup: 6.2.3_typescript@4.8.3
   tsx: 3.9.0
   typescript: 4.8.3
@@ -4575,8 +4575,8 @@ packages:
       yallist: 4.0.0
     dev: true
 
-  /taze/0.8.1:
-    resolution: {integrity: sha512-W2ZOGYiH57GFM38gBVE1pMV3TDExuqwqETdWh8xGeAOMMWwSUt6NWZnHw7c1AMhaC8abCikjXe1s2H43h5CieA==}
+  /taze/0.8.2:
+    resolution: {integrity: sha512-ADay3jM3XYgyhu8zEcv64ETpGZ3Oi2uiyxfrDfMi4sTf5znu4Zn+ytK67YLMtvRNzwn9palM7TT5xYBQxJdvwA==}
     hasBin: true
     dependencies:
       '@antfu/ni': 0.18.0
