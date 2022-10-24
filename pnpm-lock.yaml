@@ -9,7 +9,7 @@ specifiers:
   eslint: 8.25.0
   lint-staged: 13.0.3
   pnpm: 7.14.0
-  simple-git-hooks: 2.8.0
+  simple-git-hooks: 2.8.1
   taze: 0.8.2
   tsup: 6.2.3
   tsx: 3.10.1
@@ -26,7 +26,7 @@ devDependencies:
   eslint: 8.25.0
   lint-staged: 13.0.3
   pnpm: 7.14.0
-  simple-git-hooks: 2.8.0
+  simple-git-hooks: 2.8.1
   taze: 0.8.2
   tsup: 6.2.3_typescript@4.8.4
   tsx: 3.10.1
@@ -4307,8 +4307,8 @@ packages:
     resolution: {integrity: sha512-wnD2ZE+l+SPC/uoS0vXeE9L1+0wuaMqKlfz9AMUo38JsyLSBWSFcHR1Rri62LZc12vLr1gb3jl7iwQhgwpAbGQ==}
     dev: true
 
-  /simple-git-hooks/2.8.0:
-    resolution: {integrity: sha512-ocmZQORwa6x9mxg+gVIAp5o4wXiWOHGXyrDBA0+UxGKIEKOyFtL4LWNKkP/2ornQPdlnlDGDteVeYP5FjhIoWA==}
+  /simple-git-hooks/2.8.1:
+    resolution: {integrity: sha512-DYpcVR1AGtSfFUNzlBdHrQGPsOhuuEJ/FkmPOOlFysP60AHd3nsEpkGq/QEOdtUyT1Qhk7w9oLmFoMG+75BDog==}
     hasBin: true
     requiresBuild: true
     dev: true
